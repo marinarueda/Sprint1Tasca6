@@ -1,3 +1,5 @@
+package exercici2;
+
 import exercici2.Persona;
 
 public class Programa {
