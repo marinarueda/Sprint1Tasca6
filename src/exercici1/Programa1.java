@@ -1,6 +1,6 @@
 package exercici1;
 
-public class Programa {
+public class Programa1 {
     public static void main(String[] args) {
 
         NoGenericMethods myObjects = new NoGenericMethods("object 1", "object 2", "object 3");
